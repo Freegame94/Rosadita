@@ -184,7 +184,7 @@ body {
 }
 
 .text:hover:before {
-  content:"Eres lo mejor que me ha pasado amorcito";
+  content:" ! Eres lo mejor que me ha pasado amorcito !";
   font-size:25px;
 
 }
